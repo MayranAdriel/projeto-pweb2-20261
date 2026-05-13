@@ -2,7 +2,7 @@
 
 O desenvolvimento desse projeto deverá ser focado em desenvolver uma aplicação _frontend_ para **Gestão Financeira Pessoal**. Cada **grupo de até 4 alunos** deve entregar sua aplicação web funcionando, praticando todos os tópicos da stack vistos em cada etapa.
 
-Os serviços de _backend_ já estão construídos com Java 21 e Spring Boot. Não é necessário entendimento dessa API e esta será mantida pelo professor da disciplina caso sejam necessários alguns ajustes.
+Os serviços de _backend_ já estão construídos com Java 21 e Spring Boot. Não é necessário entendimento dessa API e esta será mantida pelo professor da disciplina caso sejam necessários alguns ajustes. Verifique as [instruções de execução do projeto](INSTRUCOES.md) para mais detalhes.
 
 ## Etapa 1 - Fundação
 
@@ -27,3 +27,13 @@ Tópicos a serem pesquisados:
 Requisitos a serem implementados:
 
 - **RF05**, **RF06**, **RF07** - A definir
+
+---
+
+## Sobre a entrega
+
+A entrega deve ser feita por meio de um _Pull Request_ para este repositório, contendo na descrição o nome do grupo.
+
+- Não serão aceitas entregas por outros meios ou fora do prazo.
+- Não é permitido sobrescrever o trabalho por meio de um `git push --force` ou outro método que altere o histórico do repositório.
+- Todos os membros do grupo precisam estar listados como contribuidores do repositório para que a entrega seja considerada válida.
